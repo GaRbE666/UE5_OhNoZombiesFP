@@ -836,3 +836,123 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.22-22.21.23:955][255]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerE434D2484ED2B79D6581EEA27585A121.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
 [2023.02.22-22.21.23:964][255]AssetCheck: New page: Asset Save: BP_Player
 [2023.02.22-22.21.23:964][255]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.22.10:530][705]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.22-22.22.12:914][975]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.22.12:955][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.02.22-22.22.28:048][132]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.22.28:088][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.02.22-22.22.28:440][161]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.22.28:441][161]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerED3E434E45C2E3DD9495579D06AF03FA.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.22.28:449][161]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.22.28:449][161]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.24.12:316][283]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.24.12:358][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.22-22.24.13:095][358]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.24.13:096][358]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerF977CFA244B6718466DF95A9347D7341.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.24.13:106][358]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.24.13:106][358]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.24.31:737][858]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.24.31:777][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.02.22-22.24.32:476][926]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.24.32:477][926]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerA0C56E89470EAAC7EE561CB2E651443A.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.24.32:486][926]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.24.32:486][926]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.24.50:222][819]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.24.50:263][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.02.22-22.24.50:506][836]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.24.50:546][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.02.22-22.24.50:979][873]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.24.50:979][873]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerFBBB64AA400B9FF4358132B2006B0430.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.24.50:988][873]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.24.50:988][873]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.24.59:151][796]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.24.59:194][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.22-22.24.59:612][833]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.24.59:613][833]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerD4F0704248B12E6F9D74D199C3376C03.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.24.59:623][833]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.24.59:623][833]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.25.19:043][ 97]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.25.19:085][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.02.22-22.25.19:678][152]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.25.19:679][152]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerEC8E16B74FD50C428D79ACA1D5A2418A.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.25.19:689][152]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.25.19:689][152]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.25.23:929][415]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.25.23:930][415]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player3885A7CD4901BD5BA9DED79A7EB67D8B.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.25.23:939][415]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.25.23:939][415]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.25.33:209][445]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.22-22.25.45:801][908]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.25.45:841][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.02.22-22.25.46:429][963]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.25.46:429][963]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerC3C1F6544D5B57015A02C39B587E7637.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.25.46:440][963]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.25.46:440][963]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.26.00:404][569]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.26.00:443][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.02.22-22.26.00:779][597]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.26.00:780][597]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player9651FB9E4A6B97C86EEB868EF632BC91.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.26.00:790][597]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.26.00:790][597]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.27.40:840][352]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.22-22.27.40:847][352]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.22-22.27.40:856][353]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.22-22.27.42:450][544]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.02.22-22.27.42:451][544]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.22-22.27.47:791][149]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.22-22.27.47:798][149]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.22-22.27.47:814][151]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.22-22.27.49:159][312]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2023.02.22-22.27.49:159][312]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.22-22.27.55:648][652]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.22-22.27.59:368][976]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.02.22-22.27.59:373][976]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.02.22-22.27.59:380][976]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.02.22-22.27.59:400][978]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.02.22-22.28.04:479][586]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_MainHUD
+[2023.02.22-22.28.04:483][586]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.02.22-22.28.07:939][989]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.28.07:988][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.02.22-22.28.08:401][ 23]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.28.08:402][ 23]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player5EAC968E45EA1C1F6DC273B21347BE53.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.28.08:412][ 23]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.28.08:412][ 23]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.28.41:917][798]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.22-22.30.59:727][706]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.30.59:734][706]LogClass: Warning: Type mismatch in mainHUDRef of BP_Player_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.02.22-22.30.59:776][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.02.22-22.31.00:178][741]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.31.00:179][741]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerFEEB1F994F0C7B560FCA1A86E1CCC396.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.31.00:189][741]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.31.00:189][741]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.34.29:133][375]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.34.29:189][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.22-22.34.29:652][419]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.34.29:653][419]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerA5FBC3384A4F914936E9BE9775C9834B.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.34.29:663][419]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.34.29:663][419]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.36.34:436][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.02.22-22.36.34:439][601]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FirstPersonMap' took 0.028
+[2023.02.22-22.36.34:440][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Player/BP_Player] ([2] browsable assets)...
+[2023.02.22-22.36.34:440][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/BP_Player]
+[2023.02.22-22.36.34:464][601]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Player/BP_Player_Auto1
+[2023.02.22-22.36.34:465][601]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player_Auto1C6A9438A47E483B2784CA7B77C906BD8.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/Characters/Player/BP_Player_Auto1.uasset'
+[2023.02.22-22.36.34:466][601]LogFileHelpers: Auto-saving content packages took 0.027
+[2023.02.22-22.39.27:009][852]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.39.27:060][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.02.22-22.39.27:965][943]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.39.27:966][943]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player0CDCDABE44942FE91740A9A8ED3D9064.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.39.27:977][943]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.39.27:977][943]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.40.02:318][169]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.40.02:372][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.02.22-22.40.02:833][208]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.40.02:834][208]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player727962C4448CCC7C7CA1039741A4119B.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.40.02:844][208]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.40.02:844][208]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.22-22.40.54:173][657]BlueprintLog: New page: Compile BP_Player
+[2023.02.22-22.40.54:225][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.02.22-22.40.54:701][692]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.22-22.40.54:702][692]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player4E30473F4F0BD14856132FACE1E97063.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.22-22.40.54:714][692]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.22-22.40.54:714][692]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
