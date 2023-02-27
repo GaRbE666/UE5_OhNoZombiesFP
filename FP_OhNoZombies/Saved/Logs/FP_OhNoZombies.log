@@ -34635,3 +34635,259 @@ Script call stack:
 [2023.02.27-17.01.50:238][ 58]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BKI2SSYAYKYXXJC2VZILW7_Auto397E974C04EF064A9482236AAD2B3611E.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/E/3M/BKI2SSYAYKYXXJC2VZILW7_Auto3.uasset'
 [2023.02.27-17.01.50:239][ 58]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FirstPersonMap' took 0.070
 [2023.02.27-17.01.50:239][ 58]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2023.02.27-17.03.45:376][404]LogDerivedDataCache: C:/Users/jaime/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.017 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.27-17.05.04:109][851]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E
+[2023.02.27-17.05.04:110][851]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/4SY955DUI47C3AG82V3E4E8FF9A2604018923D68102682D6270603.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E.uasset'
+[2023.02.27-17.05.04:124][851]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/E/3M/BKI2SSYAYKYXXJC2VZILW7
+[2023.02.27-17.05.04:125][851]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BKI2SSYAYKYXXJC2VZILW76E9C1CA048D9510FC5075D98CB8E76FA.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/E/3M/BKI2SSYAYKYXXJC2VZILW7.uasset'
+[2023.02.27-17.05.04:142][851]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-17.05.04:142][851]LogContentValidation: Display: Validating BP_BuyableActor_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyableActor_C_UAID_B42E991E25FBB56901_1587901896
+[2023.02.27-17.05.04:142][851]LogContentValidation: Display: Validating BP_BuyableActor_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Door_C_UAID_B42E991E25FBAF6901_1397245839
+[2023.02.27-17.05.15:429][193]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-17.05.15:429][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-17.05.15:443][193]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-17.05.15:443][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-17.05.17:868][466]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-17.05.17:868][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-17.05.55:340][904]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.05.55:489][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.27-17.05.55:609][905]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.02.27-17.05.56:107][940]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.05.56:108][940]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player184DDD48489D02B80DD39FA0A2F7982A.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.05.56:122][940]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.05.56:122][940]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.06.10:538][649]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.06.10:674][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.27-17.06.10:773][650]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.02.27-17.06.11:106][666]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.06.11:107][666]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerA4FA62E34066C34273F8C89423CC9EDB.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.06.11:123][666]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.06.11:123][666]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.06.12:984][889]LogEditorTransaction: Undo Move Node
+[2023.02.27-17.06.13:151][891]LogEditorTransaction: Undo Create Reroute Node
+[2023.02.27-17.06.13:321][893]LogEditorTransaction: Undo Move Node
+[2023.02.27-17.06.13:987][951]LogEditorTransaction: Undo Create Reroute Node
+[2023.02.27-17.06.15:676][142]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.06.15:813][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.02.27-17.06.15:911][143]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.02.27-17.06.16:190][153]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.06.16:191][153]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player2BCD915B46F4791FEE162A9B710BCE3A.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.06.16:206][153]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.06.16:207][153]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.07.26:582][129]LogViewport: Scene viewport resized to 1449x981, mode Windowed.
+[2023.02.27-17.07.36:780][320]LogEditorTransaction: Undo Set Scale
+[2023.02.27-17.07.37:093][323]LogEditorTransaction: Undo Set Scale
+[2023.02.27-17.07.39:233][547]LogEditorTransaction: Undo Set Scale
+[2023.02.27-17.07.54:933][322]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.07.54:934][322]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerA0DC233F4DDF5ED669AA83859B35DA02.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.07.54:950][322]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.07.54:951][322]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.07.55:679][407]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.07.55:824][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.27-17.07.55:969][408]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.02.27-17.08.52:226][859]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.08.52:281][859]LogBlueprint: Error: [AssetLog] C:\Users\jaime\Documents\Unreal Projects\OhNoZombiesRepo\FP_OhNoZombies\Content\Characters\Player\BP_Player.uasset: [Compiler] The current value of the ' New Transform ' pin is invalid: 'New Transform' in action 'Set Relative Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.02.27-17.08.52:358][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.02.27-17.08.52:428][860]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.02.27-17.08.53:241][935]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.08.53:242][935]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player050DE833477D2C5E634828A5E487DFAB.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.08.53:258][935]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.08.53:258][935]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.11.17:958][863]LogEditorTransaction: Undo Modify Component(s)
+[2023.02.27-17.11.53:027][812]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.11.53:170][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.27-17.11.53:324][813]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.02.27-17.11.53:753][832]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.11.53:754][832]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerA98269B946096FB55788B596B1D9CD21.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.11.53:767][832]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.11.53:767][832]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.12.03:238][871]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.12.03:481][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.02.27-17.12.03:687][872]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.02.27-17.12.03:918][877]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.12.03:919][877]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player996FD61A42902F5D37DBCF8A773D7D71.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.12.03:936][877]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.12.03:936][877]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.12.10:860][635]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Components/BPC_Health.BPC_Health
+[2023.02.27-17.12.10:860][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-17.12.25:879][374]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-17.12.25:879][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-17.12.58:980][205]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.12.59:251][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.02.27-17.12.59:325][206]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.02.27-17.13.00:002][265]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.13.00:003][265]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player6DF989334AE152607B6189BB20B6FA9E.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.13.00:017][265]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.13.00:017][265]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.13.48:361][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.02.27-17.13.48:374][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E_Auto4
+[2023.02.27-17.13.48:375][994]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/4SY955DUI47C3AG82V3E4E_Auto49E677B1C41C1DD9861AA16A1C11D47AB.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E_Auto4.uasset'
+[2023.02.27-17.13.48:381][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/E/3M/BKI2SSYAYKYXXJC2VZILW7_Auto4
+[2023.02.27-17.13.48:381][994]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BKI2SSYAYKYXXJC2VZILW7_Auto445E341C84131D6EE9F037EA3D40C862E.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/E/3M/BKI2SSYAYKYXXJC2VZILW7_Auto4.uasset'
+[2023.02.27-17.13.48:383][994]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FirstPersonMap' took 0.062
+[2023.02.27-17.13.48:383][994]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2023.02.27-17.15.55:134][733]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.15.55:370][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.02.27-17.15.55:595][734]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.02.27-17.15.55:923][746]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.15.55:924][746]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player0C53583B45644D4CCAB4B383C11CEC62.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.15.55:939][746]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.15.55:939][746]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.15.57:113][856]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.27-17.15.57:127][856]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.27-17.15.57:127][856]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.27-17.15.57:127][856]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.27-17.15.57:127][856]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.27-17.15.57:127][856]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.27-17.15.57:127][856]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2023.02.27-17.15.57:127][856]LogWorldPartition: Display: GenerateStreaming took 306 us
+[2023.02.27-17.15.57:128][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-17.15.57:128][856]PIE: New page: PIE session: FirstPersonMap (Feb 27, 2023, 7:15:57 PM)
+[2023.02.27-17.15.57:128][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.27-17.15.57:134][856]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.27-17.15.57:134][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006154s)
+[2023.02.27-17.15.57:134][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonMap.FirstPersonMap to /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006196s)
+[2023.02.27-17.15.57:134][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-17.15.57:134][856]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.27-17.15.57:135][856]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.27-17.15.57:135][856]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.27-17.15.57:136][856]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.27-17.15.57:136][856]LogPlayLevel: PIE: World Init took: (0.002036s)
+[2023.02.27-17.15.57:175][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.27-17.15.57:181][856]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2023.02.27-17.15.57:181][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-17.15.57:181][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-17.15.57:181][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-17.15.57:181][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-17.15.57:181][856]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-17.15.57:181][856]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-17.15.57:181][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-17.15.57:181][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-17.15.57:182][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-17.15.57:182][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-17.15.57:182][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-17.15.57:184][856]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-17.15.57:200][856]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG271CQR (NVIDIA High Definition Audio)
+[2023.02.27-17.15.57:200][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-17.15.57:200][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-17.15.57:200][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-17.15.57:200][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2023.02.27-17.15.57:201][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2023.02.27-17.15.57:202][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2023.02.27-17.15.57:202][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2023.02.27-17.15.57:202][856]LogInit: FAudioDevice initialized.
+[2023.02.27-17.15.57:202][856]LogAudio: Display: Audio Device (ID: 89) registered with world 'FirstPersonMap'.
+[2023.02.27-17.15.57:214][856]LogLoad: Game class is 'GM_Zombies_C'
+[2023.02.27-17.15.57:216][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.27-18.15.57
+[2023.02.27-17.15.57:216][856]LogWorld: Bringing up level for play took: 0.001953
+[2023.02.27-17.15.57:217][856]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2023.02.27-17.15.57:218][856]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.02.27-17.15.57:218][856]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.27-17.15.57:219][856]PIE: Server logged in
+[2023.02.27-17.15.57:220][856]PIE: Play in editor total start time 0.098 seconds.
+[2023.02.27-17.16.00:116][192]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner
+[2023.02.27-17.16.01:119][312]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner3
+[2023.02.27-17.16.02:119][432]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner3
+[2023.02.27-17.16.03:113][551]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner
+[2023.02.27-17.16.04:113][671]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner
+[2023.02.27-17.16.05:114][791]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner
+[2023.02.27-17.16.12:931][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-17.16.12:931][688]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.27-17.16.12:931][688]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-17.16.12:932][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-17.16.12:947][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-17.16.12:954][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-17.16.12:991][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-17.16.12:992][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.02.27-17.16.12:993][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.02.27-17.16.12:997][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-17.16.13:001][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.02.27-17.16.13:048][689]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2023.02.27-17.16.40:852][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Zombie/Blueprints/BP_AI_Zombie.BP_AI_Zombie
+[2023.02.27-17.16.40:852][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-17.16.52:211][163]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-17.16.52:211][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-17.16.56:852][682]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.27-17.17.25:511][920]BlueprintLog: New page: Compile BP_Player
+[2023.02.27-17.17.25:763][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.02.27-17.17.26:277][933]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.02.27-17.17.26:278][933]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerBB72A6BA4AF3BF100B787B8BE03EF13D.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.02.27-17.17.26:294][933]AssetCheck: New page: Asset Save: BP_Player
+[2023.02.27-17.17.26:294][933]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.02.27-17.17.29:359][269]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.27-17.17.29:373][269]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.27-17.17.29:373][269]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.27-17.17.29:373][269]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.27-17.17.29:373][269]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.02.27-17.17.29:373][269]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.02.27-17.17.29:373][269]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2023.02.27-17.17.29:373][269]LogWorldPartition: Display: GenerateStreaming took 302 us
+[2023.02.27-17.17.29:375][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-17.17.29:375][269]PIE: New page: PIE session: FirstPersonMap (Feb 27, 2023, 7:17:29 PM)
+[2023.02.27-17.17.29:409][269]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.27-17.17.29:415][269]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.02.27-17.17.29:415][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005734s)
+[2023.02.27-17.17.29:415][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonMap.FirstPersonMap to /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005807s)
+[2023.02.27-17.17.29:415][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.27-17.17.29:416][269]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.02.27-17.17.29:416][269]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.27-17.17.29:416][269]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.02.27-17.17.29:417][269]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.02.27-17.17.29:417][269]LogPlayLevel: PIE: World Init took: (0.002061s)
+[2023.02.27-17.17.29:454][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.02.27-17.17.29:460][269]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2023.02.27-17.17.29:460][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-17.17.29:460][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-17.17.29:460][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-17.17.29:460][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-17.17.29:460][269]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-17.17.29:460][269]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.27-17.17.29:460][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-17.17.29:460][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-17.17.29:461][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-17.17.29:461][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-17.17.29:461][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-17.17.29:462][269]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.27-17.17.29:480][269]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG271CQR (NVIDIA High Definition Audio)
+[2023.02.27-17.17.29:480][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-17.17.29:480][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-17.17.29:480][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-17.17.29:480][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2023.02.27-17.17.29:480][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2023.02.27-17.17.29:482][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2023.02.27-17.17.29:482][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2023.02.27-17.17.29:482][269]LogInit: FAudioDevice initialized.
+[2023.02.27-17.17.29:482][269]LogAudio: Display: Audio Device (ID: 90) registered with world 'FirstPersonMap'.
+[2023.02.27-17.17.29:493][269]LogLoad: Game class is 'GM_Zombies_C'
+[2023.02.27-17.17.29:495][269]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.02.27-18.17.29
+[2023.02.27-17.17.29:495][269]LogWorld: Bringing up level for play took: 0.001900
+[2023.02.27-17.17.29:497][269]LogOnline: OSS: Created online subsystem instance for: :Context_132
+[2023.02.27-17.17.29:498][269]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.02.27-17.17.29:498][269]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.02.27-17.17.29:499][269]PIE: Server logged in
+[2023.02.27-17.17.29:499][269]PIE: Play in editor total start time 0.132 seconds.
+[2023.02.27-17.17.32:357][603]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner3
+[2023.02.27-17.17.33:358][723]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner3
+[2023.02.27-17.17.34:358][843]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner
+[2023.02.27-17.17.35:358][963]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner
+[2023.02.27-17.17.36:359][ 83]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner
+[2023.02.27-17.17.37:359][202]LogBlueprintUserMessages: [GM_Zombies_C_0] BP_ZombieSpawner3
+[2023.02.27-17.17.42:429][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-17.17.42:429][799]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.02.27-17.17.42:430][799]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-17.17.42:431][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-17.17.42:440][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-17.17.42:447][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-17.17.42:483][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-17.17.42:484][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.02.27-17.17.42:485][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.02.27-17.17.42:489][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-17.17.42:493][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.27-17.17.42:541][800]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2023.02.27-17.17.47:029][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E
+[2023.02.27-17.17.47:029][324]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/4SY955DUI47C3AG82V3E4E8E0270074E9E8366200FDFBD08E49C5B.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E.uasset'
+[2023.02.27-17.17.47:037][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/E/3M/BKI2SSYAYKYXXJC2VZILW7
+[2023.02.27-17.17.47:037][324]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BKI2SSYAYKYXXJC2VZILW7E47D9C86444D26F93042C5B0B6121D8E.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/E/3M/BKI2SSYAYKYXXJC2VZILW7.uasset'
+[2023.02.27-17.17.47:052][324]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-17.17.47:052][324]LogContentValidation: Display: Validating BP_BuyableActor_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyableActor_C_UAID_B42E991E25FBB56901_1587901896
+[2023.02.27-17.17.47:052][324]LogContentValidation: Display: Validating BP_BuyableActor_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Door_C_UAID_B42E991E25FBAF6901_1397245839
