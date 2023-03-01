@@ -26680,3 +26680,711 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.01-21.54.33:667][979]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BPC_Health2A6FB3EE44A339F50596FAAB2CA7F5C3.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/Components/BPC_Health.uasset'
 [2023.03.01-21.54.33:677][979]AssetCheck: New page: Asset Save: BPC_Health
 [2023.03.01-21.54.33:677][979]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Components/BPC_Health.BPC_Health
+[2023.03.01-21.55.43:240][946]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.01-21.55.43:246][946]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.01-21.55.43:254][947]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.01-21.55.49:523][693]LogContentBrowser: Attempting asset rename: NewFolder -> BuyableItems
+[2023.03.01-21.55.49:523][693]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.BP_BuyableDoor_C' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.BP_BuyableDoor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.BP_BuyableDoor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.BP_BuyableDoor:Activate Sapwns.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.BP_BuyableDoor_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.BP_BuyableDoor_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.52:948][ 82]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.55.53:006][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E
+[2023.03.01-21.55.53:007][ 82]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/4SY955DUI47C3AG82V3E4E30205F884C8C746EAB60FBB7DB466D69.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E.uasset'
+[2023.03.01-21.55.53:028][ 82]LogSavePackage: Moving output files for package: /Game/Blueprints/BuyableItems/BP_BuyableDoor
+[2023.03.01-21.55.53:028][ 82]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyableDoor2F3AD2DA492A0C4537C7B5B87A2EE5C6.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/BuyableItems/BP_BuyableDoor.uasset'
+[2023.03.01-21.55.53:080][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.01-21.55.53:112][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.03.01-21.55.53:142][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.03.01-21.55.53:163][ 82]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-21.55.53:163][ 82]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BuyableItems/BP_BuyableDoor.BP_BuyableDoor
+[2023.03.01-21.55.53:163][ 82]LogContentValidation: Display: Validating BP_BuyableDoor_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Door_C_UAID_B42E991E25FBAF6901_1397245839
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.BP_BuyableGun:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.BP_BuyableGun_C' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.BP_BuyableGun:Add Weapon To Player.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.BP_BuyableGun:Check if I Have Weapon.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.BP_BuyableGun:Get Weapon Class.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.BP_BuyableGun_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.BP_BuyableGun_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C:BndEvt__BP_BuyableGun_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C:BndEvt__BP_BuyableGun_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:449][927]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.56.00:490][927]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/D/K0/OINHLNSN4IG307IKANGH23
+[2023.03.01-21.56.00:491][927]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/OINHLNSN4IG307IKANGH239F2D2CD5486CB20EEF3ED7A441E61D2A.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/D/K0/OINHLNSN4IG307IKANGH23.uasset'
+[2023.03.01-21.56.00:520][927]LogSavePackage: Moving output files for package: /Game/Blueprints/BuyableItems/BP_BuyableGun
+[2023.03.01-21.56.00:521][927]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyableGun766C85074963FCCF730FCD9A6280D3EF.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/BuyableItems/BP_BuyableGun.uasset'
+[2023.03.01-21.56.00:564][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.03.01-21.56.00:592][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.03.01-21.56.00:622][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.01-21.56.00:642][927]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-21.56.00:642][927]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BuyableItems/BP_BuyableGun.BP_BuyableGun
+[2023.03.01-21.56.00:642][927]LogContentValidation: Display: Validating BP_BuyableGun_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyableGun_C_UAID_B42E991E25FBF16A01_1452428512
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.BP_BuyablePerk:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.BP_BuyablePerk_C' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.BP_BuyablePerk:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.BP_BuyablePerk:Show Text.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.BP_BuyablePerk_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.BP_BuyablePerk_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.BP_BuyablePerk_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:BndEvt__BP_BuyablePerk_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:BndEvt__BP_BuyablePerk_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:718][148]LogMetaData: Removing '/Game/Blueprints/BuyableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.56.02:756][148]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6
+[2023.03.01-21.56.02:758][148]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/3TNG1S0N4OEWPQD08A3WQ648BC72F24BD9010BC2EE1CB91B614A44.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6.uasset'
+[2023.03.01-21.56.02:763][148]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6
+[2023.03.01-21.56.02:764][148]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/S2BJWSIHIZNNAAVGF21EE62094F81D4C1FE85FCDC58884D2F54AF8.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6.uasset'
+[2023.03.01-21.56.02:770][148]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0
+[2023.03.01-21.56.02:771][148]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/RS6QE4RDKEZMBV6WFNRTQ0C482E42846727CD12D6DBDAA6FA8C039.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0.uasset'
+[2023.03.01-21.56.02:776][148]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR
+[2023.03.01-21.56.02:777][148]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/JY6PW8A4EUWUWSWS80C7YRD043FFFC41886A5444006D9BC749BDCE.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR.uasset'
+[2023.03.01-21.56.02:804][148]LogSavePackage: Moving output files for package: /Game/Blueprints/BuyableItems/BP_BuyablePerk
+[2023.03.01-21.56.02:804][148]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk55DD7B4E428B44312AA7DF9CFDCA51FC.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/BuyableItems/BP_BuyablePerk.uasset'
+[2023.03.01-21.56.02:848][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.03.01-21.56.02:878][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.03.01-21.56.02:907][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.01-21.56.02:923][148]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-21.56.02:923][148]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BuyableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-21.56.02:923][148]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FB3C6B01_1963861711
+[2023.03.01-21.56.02:923][148]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FB046B01_1407082856
+[2023.03.01-21.56.02:923][148]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FB346B01_1897482303
+[2023.03.01-21.56.02:923][148]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FBF36A01_1772261865
+[2023.03.01-21.59.17:261][  6]LogContentBrowser: Attempting asset rename: BuyableItems -> IteractableItems
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk_C' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:BndEvt__BP_BuyablePerk_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:BndEvt__BP_BuyablePerk_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.SKEL_BP_BuyablePerk_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:287][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk:Show Text.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyablePerk.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.BP_BuyableDoor_C' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.BP_BuyableDoor_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.BP_BuyableDoor_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.SKEL_BP_BuyableDoor_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.BP_BuyableDoor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.BP_BuyableDoor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableDoor.BP_BuyableDoor:Activate Sapwns.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableDoor.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.BP_BuyableGun_C' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.BP_BuyableGun_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.BP_BuyableGun_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C:BndEvt__BP_BuyableGun_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C:BndEvt__BP_BuyableGun_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.SKEL_BP_BuyableGun_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.BP_BuyableGun:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.BP_BuyableGun:Get Weapon Class.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.BP_BuyableGun:Check if I Have Weapon.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:288][  6]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_BuyableGun.BP_BuyableGun:Add Weapon To Player.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BuyableItems/BP_BuyableGun.PackageMetaData'
+[2023.03.01-21.59.17:346][  6]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6
+[2023.03.01-21.59.17:347][  6]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/3TNG1S0N4OEWPQD08A3WQ6EF5BB0CC460B15402B9051B46735B688.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6.uasset'
+[2023.03.01-21.59.17:352][  6]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6
+[2023.03.01-21.59.17:353][  6]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/S2BJWSIHIZNNAAVGF21EE68C8A18F44437F08FC38494BF55EF2773.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6.uasset'
+[2023.03.01-21.59.17:357][  6]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0
+[2023.03.01-21.59.17:358][  6]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/RS6QE4RDKEZMBV6WFNRTQ0E229EFAD4B9308E1705CA0B0F0128E4B.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0.uasset'
+[2023.03.01-21.59.17:363][  6]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR
+[2023.03.01-21.59.17:364][  6]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/JY6PW8A4EUWUWSWS80C7YRA03E5D8946CAF42934D330958785CC29.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR.uasset'
+[2023.03.01-21.59.17:369][  6]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E
+[2023.03.01-21.59.17:369][  6]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/4SY955DUI47C3AG82V3E4E9BEA84AA4CD13BF4473D26B16F65C377.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/B/65/4SY955DUI47C3AG82V3E4E.uasset'
+[2023.03.01-21.59.17:374][  6]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/D/K0/OINHLNSN4IG307IKANGH23
+[2023.03.01-21.59.17:375][  6]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/OINHLNSN4IG307IKANGH2329C74B544B621BCB3BB933A45F1D981B.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/D/K0/OINHLNSN4IG307IKANGH23.uasset'
+[2023.03.01-21.59.17:400][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyablePerk
+[2023.03.01-21.59.17:401][  6]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk5EE17A0C4141B43A79BCDC8CB42EE27D.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyablePerk.uasset'
+[2023.03.01-21.59.17:419][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyableDoor
+[2023.03.01-21.59.17:419][  6]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyableDoor6339959049C9F5B1DB67718B2BAC07DC.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyableDoor.uasset'
+[2023.03.01-21.59.17:446][  6]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyableGun
+[2023.03.01-21.59.17:446][  6]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyableGunE9D7739548CD863FC01DE78BAB3AD990.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyableGun.uasset'
+[2023.03.01-21.59.17:516][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.03.01-21.59.17:546][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.01-21.59.17:574][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.01-21.59.17:589][  6]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-21.59.17:589][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-21.59.17:589][  6]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FB3C6B01_1963861711
+[2023.03.01-21.59.17:589][  6]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FB046B01_1407082856
+[2023.03.01-21.59.17:589][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyableDoor.BP_BuyableDoor
+[2023.03.01-21.59.17:589][  6]LogContentValidation: Display: Validating BP_BuyableDoor_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Door_C_UAID_B42E991E25FBAF6901_1397245839
+[2023.03.01-21.59.17:589][  6]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FB346B01_1897482303
+[2023.03.01-21.59.17:589][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyableGun.BP_BuyableGun
+[2023.03.01-21.59.17:589][  6]LogContentValidation: Display: Validating BP_BuyableGun_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyableGun_C_UAID_B42E991E25FBF16A01_1452428512
+[2023.03.01-21.59.17:589][  6]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FBF36A01_1772261865
+[2023.03.01-21.59.20:898][376]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_Light.BP_Light:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Light.PackageMetaData'
+[2023.03.01-21.59.20:898][376]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_Light.BP_Light_C' ref from Metadata '/Game/Blueprints/BP_Light.PackageMetaData'
+[2023.03.01-21.59.20:898][376]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_Light.SKEL_BP_Light_C' ref from Metadata '/Game/Blueprints/BP_Light.PackageMetaData'
+[2023.03.01-21.59.20:898][376]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_Light.BP_Light_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_Light.PackageMetaData'
+[2023.03.01-21.59.20:898][376]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_Light.BP_Light_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Light.PackageMetaData'
+[2023.03.01-21.59.20:898][376]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_Light.SKEL_BP_Light_C:BndEvt__BP_Light_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_Light.PackageMetaData'
+[2023.03.01-21.59.20:898][376]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_Light.SKEL_BP_Light_C:BndEvt__BP_Light_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_Light.PackageMetaData'
+[2023.03.01-21.59.20:898][376]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_Light.SKEL_BP_Light_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_Light.PackageMetaData'
+[2023.03.01-21.59.20:898][376]LogMetaData: Removing '/Game/Blueprints/IteractableItems/BP_Light.SKEL_BP_Light_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Light.PackageMetaData'
+[2023.03.01-21.59.20:944][376]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/5/4F/D910KFVZVU0YXC6DLW5RZJ
+[2023.03.01-21.59.20:945][376]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/D910KFVZVU0YXC6DLW5RZJFE2E36DB43EEEB372BE6C28A6FDCF838.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/5/4F/D910KFVZVU0YXC6DLW5RZJ.uasset'
+[2023.03.01-21.59.20:971][376]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyablePerk
+[2023.03.01-21.59.20:972][376]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk9B1BC92941A6E52B1E15A39401060089.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyablePerk.uasset'
+[2023.03.01-21.59.20:988][376]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_Light
+[2023.03.01-21.59.20:988][376]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_LightBB51770049F82A2C85F9198A756FC17F.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_Light.uasset'
+[2023.03.01-21.59.21:037][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.03.01-21.59.21:069][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.03.01-21.59.21:098][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.01-21.59.21:116][376]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-21.59.21:116][376]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_Light.BP_Light
+[2023.03.01-21.59.21:116][376]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-21.59.21:116][376]LogContentValidation: Display: Validating BP_Light_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Light_C_UAID_B42E991E25FB036B01_1499018679
+[2023.03.01-21.59.27:663][122]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-21.59.27:663][122]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.01-21.59.30:663][413]LogSlate: Window 'BP_BuyablePerk' being destroyed
+[2023.03.01-21.59.31:407][499]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-21.59.31:407][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-21.59.31:964][555]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-21.59.31:964][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.01.26:752][134]BlueprintLog: New page: Compile BP_BuyablePerk
+[2023.03.01-22.01.26:813][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.01-22.01.26:875][135]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.01.27:421][190]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyablePerk
+[2023.03.01-22.01.27:422][190]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk073918DD4E78B0E414C26EB3E1443E84.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyablePerk.uasset'
+[2023.03.01-22.01.27:432][190]AssetCheck: New page: Asset Save: BP_BuyablePerk
+[2023.03.01-22.01.27:432][190]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-22.01.28:440][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.01-22.01.28:453][287]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.01-22.01.28:453][287]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.01-22.01.28:453][287]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.01.28:453][287]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.01-22.01.28:453][287]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.01-22.01.28:453][287]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2023.03.01-22.01.28:453][287]LogWorldPartition: Display: GenerateStreaming took 312 us
+[2023.03.01-22.01.28:453][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-22.01.28:453][287]PIE: New page: PIE session: FirstPersonMap (Mar 2, 2023, 12:01:28 AM)
+[2023.03.01-22.01.28:488][287]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.01.28:494][287]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.01-22.01.28:494][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006135s)
+[2023.03.01-22.01.28:494][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonMap.FirstPersonMap to /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006191s)
+[2023.03.01-22.01.28:494][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.01-22.01.28:495][287]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.01-22.01.28:495][287]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.01-22.01.28:495][287]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.01-22.01.28:496][287]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.01-22.01.28:496][287]LogPlayLevel: PIE: World Init took: (0.002131s)
+[2023.03.01-22.01.28:524][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.03.01-22.01.28:528][287]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.01-22.01.28:528][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-22.01.28:528][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-22.01.28:528][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-22.01.28:528][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-22.01.28:528][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-22.01.28:528][287]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.01-22.01.28:528][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-22.01.28:528][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-22.01.28:528][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-22.01.28:528][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-22.01.28:528][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-22.01.28:530][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.01-22.01.28:549][287]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG271CQR (NVIDIA High Definition Audio)
+[2023.03.01-22.01.28:549][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-22.01.28:549][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-22.01.28:549][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-22.01.28:550][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.03.01-22.01.28:550][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.03.01-22.01.28:551][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.03.01-22.01.28:551][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.03.01-22.01.28:551][287]LogInit: FAudioDevice initialized.
+[2023.03.01-22.01.28:551][287]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2023.03.01-22.01.28:561][287]LogLoad: Game class is 'GM_Zombies_C'
+[2023.03.01-22.01.28:563][287]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.01-23.01.28
+[2023.03.01-22.01.28:563][287]LogWorld: Bringing up level for play took: 0.002030
+[2023.03.01-22.01.28:564][287]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.03.01-22.01.28:565][287]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2023.03.01-22.01.28:565][287]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.01.28:566][287]PIE: Server logged in
+[2023.03.01-22.01.28:567][287]PIE: Play in editor total start time 0.118 seconds.
+[2023.03.01-22.01.39:138][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.01.39:138][541]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.01.39:139][541]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-22.01.39:139][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.01.39:149][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-22.01.39:153][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.01.39:181][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-22.01.39:181][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.03.01-22.01.39:183][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.03.01-22.01.39:186][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.01.39:190][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.03.01-22.01.39:227][542]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.03.01-22.02.29:538][280]BlueprintLog: New page: Compile BP_BuyablePerk
+[2023.03.01-22.02.29:596][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.03.01-22.02.29:662][281]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.02.30:055][319]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyablePerk
+[2023.03.01-22.02.30:056][319]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk352796DA40695F4D27B315A2CD2F293D.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyablePerk.uasset'
+[2023.03.01-22.02.30:067][319]AssetCheck: New page: Asset Save: BP_BuyablePerk
+[2023.03.01-22.02.30:067][319]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-22.02.31:041][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.01-22.02.31:055][419]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.01-22.02.31:055][419]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.01-22.02.31:055][419]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.02.31:055][419]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.01-22.02.31:055][419]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.01-22.02.31:055][419]LogWorldPartition: Display: GetPartitionedActors took 39 us
+[2023.03.01-22.02.31:055][419]LogWorldPartition: Display: GenerateStreaming took 309 us
+[2023.03.01-22.02.31:055][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-22.02.31:055][419]PIE: New page: PIE session: FirstPersonMap (Mar 2, 2023, 12:02:31 AM)
+[2023.03.01-22.02.31:078][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.02.31:083][419]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.01-22.02.31:083][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005746s)
+[2023.03.01-22.02.31:083][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonMap.FirstPersonMap to /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005804s)
+[2023.03.01-22.02.31:083][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.01-22.02.31:084][419]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.01-22.02.31:084][419]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.01-22.02.31:084][419]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.01-22.02.31:085][419]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.01-22.02.31:085][419]LogPlayLevel: PIE: World Init took: (0.001997s)
+[2023.03.01-22.02.31:112][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.03.01-22.02.31:114][419]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.01-22.02.31:114][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-22.02.31:114][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-22.02.31:114][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-22.02.31:114][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-22.02.31:114][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-22.02.31:114][419]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.01-22.02.31:114][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-22.02.31:114][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-22.02.31:114][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-22.02.31:114][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-22.02.31:114][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-22.02.31:116][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.01-22.02.31:135][419]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG271CQR (NVIDIA High Definition Audio)
+[2023.03.01-22.02.31:135][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-22.02.31:135][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-22.02.31:135][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-22.02.31:136][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.03.01-22.02.31:136][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.03.01-22.02.31:137][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.03.01-22.02.31:137][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.03.01-22.02.31:137][419]LogInit: FAudioDevice initialized.
+[2023.03.01-22.02.31:137][419]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2023.03.01-22.02.31:145][419]LogLoad: Game class is 'GM_Zombies_C'
+[2023.03.01-22.02.31:147][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.01-23.02.31
+[2023.03.01-22.02.31:148][419]LogWorld: Bringing up level for play took: 0.002150
+[2023.03.01-22.02.31:149][419]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.03.01-22.02.31:150][419]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2023.03.01-22.02.31:150][419]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.02.31:151][419]PIE: Server logged in
+[2023.03.01-22.02.31:152][419]PIE: Play in editor total start time 0.102 seconds.
+[2023.03.01-22.03.18:317][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.03.18:317][  7]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.03.18:317][  7]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-22.03.18:318][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.03.18:329][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-22.03.18:336][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.03.18:368][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-22.03.18:368][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.01-22.03.18:369][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.01-22.03.18:373][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.03.18:380][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.03.01-22.03.18:416][  8]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.03.01-22.05.16:622][699]BlueprintLog: New page: Compile BP_Player
+[2023.03.01-22.05.16:818][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.03.01-22.05.17:046][700]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.05.17:404][714]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.03.01-22.05.17:405][714]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerC071515A4188B59B4CEB26A6A29FB495.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.03.01-22.05.17:417][714]AssetCheck: New page: Asset Save: BP_Player
+[2023.03.01-22.05.17:417][714]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.03.01-22.05.18:811][861]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.01-22.05.18:825][861]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.01-22.05.18:825][861]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.01-22.05.18:825][861]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.05.18:825][861]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.01-22.05.18:825][861]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.01-22.05.18:825][861]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2023.03.01-22.05.18:825][861]LogWorldPartition: Display: GenerateStreaming took 325 us
+[2023.03.01-22.05.18:825][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-22.05.18:825][861]PIE: New page: PIE session: FirstPersonMap (Mar 2, 2023, 12:05:18 AM)
+[2023.03.01-22.05.18:866][861]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.05.18:872][861]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.01-22.05.18:872][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006351s)
+[2023.03.01-22.05.18:872][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonMap.FirstPersonMap to /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006435s)
+[2023.03.01-22.05.18:872][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.01-22.05.18:873][861]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.01-22.05.18:873][861]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.01-22.05.18:873][861]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.01-22.05.18:874][861]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.01-22.05.18:874][861]LogPlayLevel: PIE: World Init took: (0.002261s)
+[2023.03.01-22.05.18:904][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.03.01-22.05.18:907][861]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.01-22.05.18:907][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-22.05.18:907][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-22.05.18:907][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-22.05.18:907][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-22.05.18:907][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-22.05.18:907][861]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.01-22.05.18:907][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-22.05.18:907][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-22.05.18:907][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-22.05.18:907][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-22.05.18:907][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-22.05.18:909][861]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.01-22.05.18:928][861]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG271CQR (NVIDIA High Definition Audio)
+[2023.03.01-22.05.18:928][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-22.05.18:928][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-22.05.18:928][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-22.05.18:929][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.03.01-22.05.18:929][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.03.01-22.05.18:930][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.03.01-22.05.18:930][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.03.01-22.05.18:930][861]LogInit: FAudioDevice initialized.
+[2023.03.01-22.05.18:930][861]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2023.03.01-22.05.18:942][861]LogLoad: Game class is 'GM_Zombies_C'
+[2023.03.01-22.05.18:944][861]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.01-23.05.18
+[2023.03.01-22.05.18:944][861]LogWorld: Bringing up level for play took: 0.002214
+[2023.03.01-22.05.18:946][861]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.03.01-22.05.18:947][861]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2023.03.01-22.05.18:947][861]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.05.18:948][861]PIE: Server logged in
+[2023.03.01-22.05.18:949][861]PIE: Play in editor total start time 0.128 seconds.
+[2023.03.01-22.06.11:325][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.06.11:325][ 86]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.06.11:325][ 86]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-22.06.11:326][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.06.11:334][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-22.06.11:340][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.06.11:371][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-22.06.11:371][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.01-22.06.11:373][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.01-22.06.11:376][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.06.11:384][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.03.01-22.06.11:421][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.03.01-22.06.36:336][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.03.01-22.06.36:343][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6_Auto1
+[2023.03.01-22.06.36:344][ 10]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/S2BJWSIHIZNNAAVGF21EE6_Auto105284FA943F9827E5F48E285BB8201D9.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6_Auto1.uasset'
+[2023.03.01-22.06.36:349][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6_Auto1
+[2023.03.01-22.06.36:350][ 10]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/3TNG1S0N4OEWPQD08A3WQ6_Auto1ECBC83EF42FB914D7BB0FBA102758A29.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6_Auto1.uasset'
+[2023.03.01-22.06.36:355][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0_Auto1
+[2023.03.01-22.06.36:356][ 10]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/RS6QE4RDKEZMBV6WFNRTQ0_Auto1050AEAAD4CCBCC01861371935CBB1204.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0_Auto1.uasset'
+[2023.03.01-22.06.36:361][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR_Auto1
+[2023.03.01-22.06.36:361][ 10]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/JY6PW8A4EUWUWSWS80C7YR_Auto1921053F44BA7236223DDA8A6A72EA5CC.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR_Auto1.uasset'
+[2023.03.01-22.06.36:363][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FirstPersonMap' took 0.054
+[2023.03.01-22.06.36:363][ 10]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2023.03.01-22.14.32:772][374]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.01-22.14.32:784][374]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.01-22.14.32:784][374]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.01-22.14.32:784][374]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.14.32:784][374]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.01-22.14.32:784][374]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.01-22.14.32:784][374]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2023.03.01-22.14.32:785][374]LogWorldPartition: Display: GenerateStreaming took 303 us
+[2023.03.01-22.14.32:785][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-22.14.32:785][374]PIE: New page: PIE session: FirstPersonMap (Mar 2, 2023, 12:14:32 AM)
+[2023.03.01-22.14.32:785][374]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.14.32:790][374]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.01-22.14.32:791][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005606s)
+[2023.03.01-22.14.32:791][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonMap.FirstPersonMap to /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005648s)
+[2023.03.01-22.14.32:791][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.01-22.14.32:791][374]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.01-22.14.32:791][374]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.01-22.14.32:791][374]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.01-22.14.32:793][374]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.01-22.14.32:793][374]LogPlayLevel: PIE: World Init took: (0.001997s)
+[2023.03.01-22.14.32:821][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.01-22.14.32:822][374]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.01-22.14.32:822][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-22.14.32:822][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-22.14.32:822][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-22.14.32:822][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-22.14.32:822][374]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-22.14.32:822][374]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.01-22.14.32:822][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-22.14.32:822][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-22.14.32:823][374]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-22.14.32:823][374]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-22.14.32:823][374]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-22.14.32:824][374]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.01-22.14.32:843][374]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG271CQR (NVIDIA High Definition Audio)
+[2023.03.01-22.14.32:843][374]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-22.14.32:843][374]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-22.14.32:843][374]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-22.14.32:844][374]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.03.01-22.14.32:844][374]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.03.01-22.14.32:845][374]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.03.01-22.14.32:845][374]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.03.01-22.14.32:845][374]LogInit: FAudioDevice initialized.
+[2023.03.01-22.14.32:846][374]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonMap'.
+[2023.03.01-22.14.32:861][374]LogLoad: Game class is 'GM_Zombies_C'
+[2023.03.01-22.14.32:863][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.01-23.14.32
+[2023.03.01-22.14.32:863][374]LogWorld: Bringing up level for play took: 0.002165
+[2023.03.01-22.14.32:865][374]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.03.01-22.14.32:866][374]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2023.03.01-22.14.32:866][374]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.14.32:867][374]PIE: Server logged in
+[2023.03.01-22.14.32:867][374]PIE: Play in editor total start time 0.087 seconds.
+[2023.03.01-22.14.36:320][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.14.36:320][747]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.14.36:320][747]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-22.14.36:321][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.14.36:328][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-22.14.36:333][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.14.36:359][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.14.36:359][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.01-22.14.36:360][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.01-22.14.36:366][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.03.01-22.14.36:403][748]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.03.01-22.16.48:999][366]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2023.03.01-22.16.49:040][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.03.01-22.16.49:043][366]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FirstPersonMap' took 0.034
+[2023.03.01-22.16.49:044][366]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Player/BP_Player] ([2] browsable assets)...
+[2023.03.01-22.16.49:044][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/BP_Player]
+[2023.03.01-22.16.49:207][366]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Player/BP_Player_Auto2
+[2023.03.01-22.16.49:208][366]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player_Auto20527117B4C8083F67CD880998895B7B3.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/Characters/Player/BP_Player_Auto2.uasset'
+[2023.03.01-22.16.49:209][366]LogFileHelpers: Auto-saving content packages took 0.166
+[2023.03.01-22.19.14:975][ 85]BlueprintLog: New page: Collapse to Function
+[2023.03.01-22.20.23:662][755]BlueprintLog: New page: Compile BP_Player
+[2023.03.01-22.20.23:858][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.03.01-22.20.24:083][756]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.20.24:607][774]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.03.01-22.20.24:608][774]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player023820F845276E4169C1A5BD1E18CADB.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.03.01-22.20.24:622][774]AssetCheck: New page: Asset Save: BP_Player
+[2023.03.01-22.20.24:623][774]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.03.01-22.23.21:580][966]LogSlate: Took 0.003047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.01-22.25.31:993][871]BlueprintLog: New page: Compile BP_Player
+[2023.03.01-22.25.32:188][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.03.01-22.25.32:420][872]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.25.32:734][877]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.03.01-22.25.32:734][877]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_Player1B531E214125678B8CF700A57D031867.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.03.01-22.25.32:748][877]AssetCheck: New page: Asset Save: BP_Player
+[2023.03.01-22.25.32:748][877]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.03.01-22.26.56:389][ 21]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.27.00:858][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.03.01-22.27.00:866][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6_Auto3
+[2023.03.01-22.27.00:867][516]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/S2BJWSIHIZNNAAVGF21EE6_Auto38291E11B482261DBB073FF83B227FC57.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6_Auto3.uasset'
+[2023.03.01-22.27.00:873][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6_Auto3
+[2023.03.01-22.27.00:874][516]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/3TNG1S0N4OEWPQD08A3WQ6_Auto362D232AF474CC13B8C6D719D0C93BBD8.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6_Auto3.uasset'
+[2023.03.01-22.27.00:879][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0_Auto3
+[2023.03.01-22.27.00:880][516]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/RS6QE4RDKEZMBV6WFNRTQ0_Auto31BB7E14A441EC3C32470989849B58C21.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0_Auto3.uasset'
+[2023.03.01-22.27.00:885][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR_Auto3
+[2023.03.01-22.27.00:886][516]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/JY6PW8A4EUWUWSWS80C7YR_Auto313FB8F1146513FA0CB12FBAE64832939.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR_Auto3.uasset'
+[2023.03.01-22.27.00:887][516]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FirstPersonMap' took 0.061
+[2023.03.01-22.27.00:887][516]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2023.03.01-22.27.00:888][516]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IteractableItems/BP_BuyablePerk] ([2] browsable assets)...
+[2023.03.01-22.27.00:888][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IteractableItems/BP_BuyablePerk]
+[2023.03.01-22.27.00:914][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/IteractableItems/BP_BuyablePerk_Auto3
+[2023.03.01-22.27.00:914][516]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk_Auto3E9507AF643E077F0CAC28E95B9EC8F33.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/Blueprints/IteractableItems/BP_BuyablePerk_Auto3.uasset'
+[2023.03.01-22.27.00:914][516]LogFileHelpers: Auto-saving content packages took 0.027
+[2023.03.01-22.27.24:041][267]BlueprintLog: New page: Compile BP_BuyablePerk
+[2023.03.01-22.27.24:103][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.03.01-22.27.24:172][268]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.27.24:731][324]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyablePerk
+[2023.03.01-22.27.24:732][324]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk9B3762644069374AE12C7E8384573CE1.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyablePerk.uasset'
+[2023.03.01-22.27.24:745][324]AssetCheck: New page: Asset Save: BP_BuyablePerk
+[2023.03.01-22.27.24:745][324]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-22.27.36:311][299]BlueprintLog: New page: Compile BP_Player
+[2023.03.01-22.27.36:507][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.03.01-22.27.36:749][300]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.27.37:187][311]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.03.01-22.27.37:187][311]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerFA15692546EC7501BE1673ABCE8949BC.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.03.01-22.27.37:206][311]AssetCheck: New page: Asset Save: BP_Player
+[2023.03.01-22.27.37:206][311]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.03.01-22.27.50:887][136]BlueprintLog: New page: Compile BP_Player
+[2023.03.01-22.27.51:079][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.01-22.27.51:312][137]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.27.51:803][152]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_Player
+[2023.03.01-22.27.51:804][152]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_PlayerD3D0A2A94A0138475B30DE90DD08C8AA.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Characters/Player/BP_Player.uasset'
+[2023.03.01-22.27.51:823][152]AssetCheck: New page: Asset Save: BP_Player
+[2023.03.01-22.27.51:823][152]LogContentValidation: Display: Validating Blueprint /Game/Characters/Player/BP_Player.BP_Player
+[2023.03.01-22.32.53:445][ 94]BlueprintLog: New page: Compile BP_BuyablePerk
+[2023.03.01-22.32.53:510][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.03.01-22.32.53:559][ 95]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.32.53:956][130]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyablePerk
+[2023.03.01-22.32.53:957][130]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk05AE41524D13245B2123D793345043F5.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyablePerk.uasset'
+[2023.03.01-22.32.53:971][130]AssetCheck: New page: Asset Save: BP_BuyablePerk
+[2023.03.01-22.32.53:971][130]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-22.37.22:163][912]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.37.29:876][785]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.37.34:288][297]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.38.08:288][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.03.01-22.38.08:296][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6_Auto4
+[2023.03.01-22.38.08:297][619]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/S2BJWSIHIZNNAAVGF21EE6_Auto4266B8224400D50C9895479AA0F5289CD.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6_Auto4.uasset'
+[2023.03.01-22.38.08:303][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6_Auto4
+[2023.03.01-22.38.08:304][619]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/3TNG1S0N4OEWPQD08A3WQ6_Auto46799A99B41E7B10B78BCF48D0EA77BBC.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6_Auto4.uasset'
+[2023.03.01-22.38.08:309][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0_Auto4
+[2023.03.01-22.38.08:310][619]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/RS6QE4RDKEZMBV6WFNRTQ0_Auto4EF02522A415E2005F4F4BFB2A129692E.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0_Auto4.uasset'
+[2023.03.01-22.38.08:315][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR_Auto4
+[2023.03.01-22.38.08:316][619]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/JY6PW8A4EUWUWSWS80C7YR_Auto4C0616BF34914FA9B24A7E9A20160C0E6.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR_Auto4.uasset'
+[2023.03.01-22.38.08:317][619]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FirstPersonMap' took 0.058
+[2023.03.01-22.38.08:317][619]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2023.03.01-22.38.08:317][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IteractableItems/BP_BuyablePerk] ([2] browsable assets)...
+[2023.03.01-22.38.08:317][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IteractableItems/BP_BuyablePerk]
+[2023.03.01-22.38.08:346][619]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/IteractableItems/BP_BuyablePerk_Auto4
+[2023.03.01-22.38.08:346][619]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk_Auto4AE2D6CD14DA39A0DCECC8E87F7058DDC.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/Autosaves/Game/Blueprints/IteractableItems/BP_BuyablePerk_Auto4.uasset'
+[2023.03.01-22.38.08:346][619]LogFileHelpers: Auto-saving content packages took 0.029
+[2023.03.01-22.41.27:621][133]BlueprintLog: New page: Compile BP_BuyablePerk
+[2023.03.01-22.41.27:686][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.01-22.41.27:746][134]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.41.28:273][189]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyablePerk
+[2023.03.01-22.41.28:274][189]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerk195BC3FB40FA0BEDD24E4F8C5D449C79.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyablePerk.uasset'
+[2023.03.01-22.41.28:285][189]AssetCheck: New page: Asset Save: BP_BuyablePerk
+[2023.03.01-22.41.28:285][189]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-22.41.29:572][328]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.01-22.41.29:585][328]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.01-22.41.29:585][328]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.01-22.41.29:585][328]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.41.29:585][328]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.01-22.41.29:585][328]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.01-22.41.29:585][328]LogWorldPartition: Display: GetPartitionedActors took 39 us
+[2023.03.01-22.41.29:586][328]LogWorldPartition: Display: GenerateStreaming took 308 us
+[2023.03.01-22.41.29:586][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-22.41.29:586][328]PIE: New page: PIE session: FirstPersonMap (Mar 2, 2023, 12:41:29 AM)
+[2023.03.01-22.41.29:612][328]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.41.29:617][328]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.01-22.41.29:618][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005695s)
+[2023.03.01-22.41.29:618][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonMap.FirstPersonMap to /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005754s)
+[2023.03.01-22.41.29:618][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.01-22.41.29:618][328]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.01-22.41.29:618][328]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.01-22.41.29:618][328]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.01-22.41.29:620][328]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.01-22.41.29:620][328]LogPlayLevel: PIE: World Init took: (0.002103s)
+[2023.03.01-22.41.29:647][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.03.01-22.41.29:650][328]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.03.01-22.41.29:650][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-22.41.29:650][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-22.41.29:651][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-22.41.29:651][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-22.41.29:651][328]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-22.41.29:651][328]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.01-22.41.29:651][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-22.41.29:651][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-22.41.29:651][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-22.41.29:651][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-22.41.29:651][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-22.41.29:653][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.01-22.41.29:672][328]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG271CQR (NVIDIA High Definition Audio)
+[2023.03.01-22.41.29:672][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-22.41.29:672][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-22.41.29:672][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-22.41.29:673][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.03.01-22.41.29:673][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.03.01-22.41.29:674][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.03.01-22.41.29:674][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.03.01-22.41.29:674][328]LogInit: FAudioDevice initialized.
+[2023.03.01-22.41.29:674][328]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonMap'.
+[2023.03.01-22.41.29:685][328]LogLoad: Game class is 'GM_Zombies_C'
+[2023.03.01-22.41.29:687][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.01-23.41.29
+[2023.03.01-22.41.29:687][328]LogWorld: Bringing up level for play took: 0.002096
+[2023.03.01-22.41.29:689][328]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.03.01-22.41.29:690][328]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2023.03.01-22.41.29:690][328]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.41.29:691][328]PIE: Server logged in
+[2023.03.01-22.41.29:691][328]PIE: Play in editor total start time 0.11 seconds.
+[2023.03.01-22.42.21:621][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.42.21:621][519]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.42.21:622][519]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-22.42.21:623][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.42.21:630][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-22.42.21:635][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.42.21:664][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-22.42.21:665][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.01-22.42.21:666][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.01-22.42.21:669][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.42.21:674][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.03.01-22.42.21:709][520]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.03.01-22.43.47:716][605]LogDerivedDataCache: C:/Users/jaime/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.042 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.01-22.43.51:768][ 81]BlueprintLog: New page: Compile BP_BuyablePerk
+[2023.03.01-22.43.51:832][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.03.01-22.43.51:903][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/FirstPersonMap.
+[2023.03.01-22.43.52:311][121]LogSavePackage: Moving output files for package: /Game/Blueprints/IteractableItems/BP_BuyablePerk
+[2023.03.01-22.43.52:312][121]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/BP_BuyablePerkC67590374F33BAB0CC95FD9C1922E277.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/Blueprints/IteractableItems/BP_BuyablePerk.uasset'
+[2023.03.01-22.43.52:323][121]AssetCheck: New page: Asset Save: BP_BuyablePerk
+[2023.03.01-22.43.52:323][121]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IteractableItems/BP_BuyablePerk.BP_BuyablePerk
+[2023.03.01-22.43.58:442][836]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.01-22.43.58:459][836]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.01-22.43.58:459][836]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.01-22.43.58:459][836]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.43.58:459][836]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.03.01-22.43.58:459][836]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.03.01-22.43.58:459][836]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2023.03.01-22.43.58:459][836]LogWorldPartition: Display: GenerateStreaming took 333 us
+[2023.03.01-22.43.58:460][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.01-22.43.58:460][836]PIE: New page: PIE session: FirstPersonMap (Mar 2, 2023, 12:43:58 AM)
+[2023.03.01-22.43.58:460][836]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.43.58:466][836]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.03.01-22.43.58:466][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005901s)
+[2023.03.01-22.43.58:466][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonMap.FirstPersonMap to /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005945s)
+[2023.03.01-22.43.58:466][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.01-22.43.58:466][836]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.03.01-22.43.58:466][836]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.01-22.43.58:466][836]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.03.01-22.43.58:468][836]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.03.01-22.43.58:468][836]LogPlayLevel: PIE: World Init took: (0.002084s)
+[2023.03.01-22.43.58:496][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.03.01-22.43.58:500][836]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.03.01-22.43.58:500][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-22.43.58:500][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-22.43.58:500][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-22.43.58:500][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-22.43.58:500][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-22.43.58:500][836]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.01-22.43.58:500][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-22.43.58:500][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-22.43.58:500][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-22.43.58:500][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-22.43.58:500][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-22.43.58:502][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.01-22.43.58:522][836]LogAudioMixer: Display: Using Audio Hardware Device MSI MAG271CQR (NVIDIA High Definition Audio)
+[2023.03.01-22.43.58:522][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-22.43.58:522][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-22.43.58:522][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-22.43.58:523][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.03.01-22.43.58:523][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.03.01-22.43.58:524][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.03.01-22.43.58:524][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.03.01-22.43.58:524][836]LogInit: FAudioDevice initialized.
+[2023.03.01-22.43.58:524][836]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2023.03.01-22.43.58:536][836]LogLoad: Game class is 'GM_Zombies_C'
+[2023.03.01-22.43.58:538][836]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.03.01-23.43.58
+[2023.03.01-22.43.58:538][836]LogWorld: Bringing up level for play took: 0.002127
+[2023.03.01-22.43.58:540][836]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.03.01-22.43.58:541][836]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.338
+[2023.03.01-22.43.58:541][836]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.03.01-22.43.58:542][836]PIE: Server logged in
+[2023.03.01-22.43.58:542][836]PIE: Play in editor total start time 0.088 seconds.
+[2023.03.01-22.45.15:900][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.45.15:900][ 30]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonMap
+[2023.03.01-22.45.15:900][ 30]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-22.45.15:901][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.45.15:914][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.01-22.45.15:920][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-22.45.15:952][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-22.45.15:952][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.01-22.45.15:954][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.03.01-22.45.15:957][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-22.45.15:961][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.01-22.45.15:997][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.03.01-22.45.18:171][281]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6
+[2023.03.01-22.45.18:172][281]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/S2BJWSIHIZNNAAVGF21EE6B2AA492548001953A3ACE1BDBC49A3AC.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/D/RF/S2BJWSIHIZNNAAVGF21EE6.uasset'
+[2023.03.01-22.45.18:179][281]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6
+[2023.03.01-22.45.18:180][281]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/3TNG1S0N4OEWPQD08A3WQ61C349E2D4F5EA71EF1A556A5928E1E29.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/C/8Y/3TNG1S0N4OEWPQD08A3WQ6.uasset'
+[2023.03.01-22.45.18:185][281]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0
+[2023.03.01-22.45.18:186][281]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/RS6QE4RDKEZMBV6WFNRTQ09596C7BA4BD27D9C8EBF76A93D2CD6E3.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/7/UQ/RS6QE4RDKEZMBV6WFNRTQ0.uasset'
+[2023.03.01-22.45.18:192][281]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR
+[2023.03.01-22.45.18:192][281]LogSavePackage: Moving '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Saved/JY6PW8A4EUWUWSWS80C7YR3E532B734C5A1032874A01B63DAF50D5.tmp' to '../../../../../../Users/jaime/Documents/Unreal Projects/OhNoZombiesRepo/FP_OhNoZombies/Content/__ExternalActors__/Maps/FirstPersonMap/4/XK/JY6PW8A4EUWUWSWS80C7YR.uasset'
+[2023.03.01-22.45.18:208][281]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.01-22.45.18:208][281]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FBF36A01_1772261865
+[2023.03.01-22.45.18:208][281]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FB346B01_1897482303
+[2023.03.01-22.45.18:208][281]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FB046B01_1407082856
+[2023.03.01-22.45.18:208][281]LogContentValidation: Display: Validating BP_BuyablePerk_C /Game/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_BuyablePerk_C_UAID_B42E991E25FB3C6B01_1963861711
